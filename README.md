@@ -1,2 +1,2 @@
 # demo-repo
-Repo for learning git
+Repo for learning git and github
